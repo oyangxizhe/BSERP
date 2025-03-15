@@ -1,0 +1,21 @@
+
+#NewsPic {	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; LEFT: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 0px; POSITION: relative; TOP: 0px; HEIGHT: 100%; BORDER-RIGHT-WIDTH: 0px}
+#NewsPicTxt {	BORDER-TOP-WIDTH: 1px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 12px; BORDER-BOTTOM-WIDTH: 1px; PADDING-BOTTOM: 0px; MARGIN: 3px auto 0px; WIDTH: 400px; COLOR: black; PADDING-TOP: 0px; FONT-FAMILY: Sans-Serif; POSITION: relative; HEIGHT: 0px; TEXT-ALIGN: center; BORDER-RIGHT-WIDTH: 0px}
+#NewsPicTxt A {	COLOR: black; TEXT-DECORATION: none}
+#NewsPicTxt A:hover {	COLOR: black; TEXT-DECORATION: none}
+#NewsPicTxt A:visited {	COLOR: black; TEXT-DECORATION: none}
+#NewPicTxt A:link {	COLOR: black; TEXT-DECORATION: none}
+#NewsPicTxt A:hover {	COLOR: red}
+#NewsPic A {	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px; TEXT-DECORATION: none}
+#NewsPic A:hover {	TEXT-DECORATION: none}
+#NewPic A:visited {	TEXT-DECORATION: none}
+#NewsPic .Picture {	BORDER-RIGHT: #ffffff 0px solid; BORDER-TOP: #ffffff 0px solid; LEFT: 0px; BORDER-LEFT: #ffffff 0px solid; WIDTH: 100%; 
+BORDER-BOTTOM: #ffffff 1px solid; POSITION: absolute; TOP: -2px; 
+HEIGHT: 100%
+}
+#NewsPic .Nav {	RIGHT: 0px; WIDTH: 100%; BOTTOM: 0px; POSITION: absolute; HEIGHT: 12px}
+#NewsPic .Nav SPAN {	DISPLAY: block; BACKGROUND: #000000; FLOAT: right; FONT: 10px Courier; BORDER-LEFT: #ffffff 1px solid; WIDTH: 24px; CURSOR: hand; COLOR: #ffffff; HEIGHT: 100%; TEXT-ALIGN: center}
+#NewsPic .Nav SPAN.Cur {	BACKGROUND: #019fe8; COLOR: white}
+#NewsPic .Nav SPAN.Normal {	BACKGROUND: #000000; FILTER: Alpha(opacity=50); COLOR: white; opacity: .5}
+#NewsPic .Nav SPAN A {	DISPLAY: block; WIDTH: 100%; COLOR: white; POSITION: relative; HEIGHT: 100%}
+#NewsPic .Nav SPAN A:hover {	CURSOR: hand}
